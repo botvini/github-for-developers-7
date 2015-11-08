@@ -3,3 +3,5 @@
 - [ ] mediterranean food
 - [ ] Hiking
 - [ ] Green
+- [ ] Wild
+- 
