@@ -4,4 +4,3 @@
 - [ ] Hiking
 - [ ] Green
 - [ ] Wild
-- 
