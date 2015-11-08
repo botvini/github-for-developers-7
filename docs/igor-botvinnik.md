@@ -4,3 +4,4 @@
 - [ ] Hiking
 - [ ] Green
 - [ ] Wild
+- [ ] American beauty
